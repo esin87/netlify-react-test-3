@@ -20,7 +20,7 @@ function App() {
   
 	return (
 		<div>
-			<h1>Hello from netlify test app!</h1>
+			<h1>Hello SEIR-59!!!!!!</h1>
 		</div>
 	);
 }
